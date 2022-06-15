@@ -1,0 +1,47 @@
+Modelo el sistema:                         System Product Name
+Tipo de sistema:                           x64-based PC
+Procesador(es):                            1 Procesadores instalados.
+                                           [01]: AMD64 Family 23 Model 24 Stepping 1 AuthenticAMD ~3600 Mhz
+Versión del BIOS:                          American Megatrends Inc. 5207, 30/8/2019
+Directorio de Windows:                     C:\WINDOWS
+Directorio de sistema:                     C:\WINDOWS\system32
+Dispositivo de arranque:                   \Device\HarddiskVolume5
+Configuración regional del sistema:        es-mx;Español (México)
+Idioma de entrada:                         es-mx;Español (México)
+Zona horaria:                              (UTC-03:00) Ciudad de Buenos Aires
+Cantidad total de memoria física:          6.078 MB
+Memoria física disponible:                 1.643 MB
+Memoria virtual: tamaño máximo:            15.294 MB
+Memoria virtual: disponible:               5.604 MB
+Memoria virtual: en uso:                   9.690 MB
+Ubicación(es) de archivo de paginación:    F:\pagefile.sys
+Dominio:                                   WORKGROUP
+Servidor de inicio de sesión:              \\DESKTOP-BVGRLFL
+Revisión(es):                              6 revisión(es) instaladas.
+                                           [01]: KB5013624
+                                           [02]: KB5003791
+                                           [03]: KB5007401
+                                           [04]: KB5013942
+                                           [05]: KB5014032
+                                           [06]: KB5005699
+Tarjeta(s) de red:                         2 Tarjetas de interfaz de red instaladas.
+                                           [01]: Realtek PCIe GbE Family Controller
+                                                 Nombre de conexión: Ethernet
+                                                 DHCP habilitado:    Sí
+                                                 Servidor DHCP:      192.168.0.1
+                                                 Direcciones IP
+                                                 [01]: 192.168.0.41
+                                                 [02]: fe80::344d:f35a:dc40:6af7
+                                                 [03]: 2800:810:489:ba2:641b:2252:e6c7:73cf
+                                                 [04]: 2800:810:489:ba2:344d:f35a:dc40:6af7
+                                                 [05]: 2800:810:489:ba2::1001
+                                           [02]: VirtualBox Host-Only Ethernet Adapter
+                                                 Nombre de conexión: VirtualBox Host-Only Network
+                                                 DHCP habilitado:    No
+                                                 Direcciones IP
+                                                 [01]: 192.168.56.1
+                                                 [02]: fe80::e4a9:8da2:d820:ba91
+Requisitos Hyper-V:                        Extensiones de modo de monitor de VM: Sí
+                                           Se habilitó la virtualización en el firmware: Sí
+                                           Traducción de direcciones de segundo nivel: Sí
+                                           La prevención de ejecución de datos está disponible: Sí
