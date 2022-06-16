@@ -1,3 +1,7 @@
 Franco David Messina
 Dirección IPv4:	192.168.0.41
 Hora: 18:48 (UTC-03:00)
+
+Alfredo Damian Gonzalez (Alfa)
+Dirección IPv4: 192.168.1.44
+Hora: 21:28 (UTC-03:00)

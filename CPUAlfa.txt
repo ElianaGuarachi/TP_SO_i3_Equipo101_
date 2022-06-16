@@ -1,0 +1,53 @@
+Modelo el sistema:                         82AU
+Tipo de sistema:                           x64-based PC
+Procesador(es):                            1 Procesadores instalados.
+                                           [01]: Intel64 Family 6 Model 165 Stepping 2 GenuineIntel ~2496 Mhz
+Versión del BIOS:                          LENOVO EFCN38WW, 30/07/2020
+Directorio de Windows:                     C:\WINDOWS
+Directorio de sistema:                     C:\WINDOWS\system32
+Dispositivo de arranque:                   \Device\HarddiskVolume3
+Configuración regional del sistema:        es;Español (internacional)
+Idioma de entrada:                         es;Español (tradicional)
+Zona horaria:                              (UTC-03:00) Ciudad de Buenos Aires
+Cantidad total de memoria física:          8.060 MB
+Memoria física disponible:                 1.401 MB
+Memoria virtual: tamaño máximo:            19.324 MB
+Memoria virtual: disponible:               7.969 MB
+Memoria virtual: en uso:                   11.355 MB
+Ubicación(es) de archivo de paginación:    D:\pagefile.sys
+Dominio:                                   WORKGROUP
+Servidor de inicio de sesión:              \\LAPTOP-FMJDN040
+Revisión(es):                              12 revisión(es) instaladas.
+                                           [01]: KB5013624
+                                           [02]: KB4562830
+                                           [03]: KB4577586
+                                           [04]: KB4580325
+                                           [05]: KB5000736
+                                           [06]: KB5013942
+                                           [07]: KB5006753
+                                           [08]: KB5007273
+                                           [09]: KB5011352
+                                           [10]: KB5011651
+                                           [11]: KB5014032
+                                           [12]: KB5005699
+Tarjeta(s) de red:                         3 Tarjetas de interfaz de red instaladas.
+                                           [01]: Intel(R) Wi-Fi 6 AX201 160MHz
+                                                 Nombre de conexión: Wi-Fi
+                                                 DHCP habilitado:    Sí
+                                                 Servidor DHCP:      192.168.1.1
+                                                 Direcciones IP
+                                                 [01]: 192.168.1.44
+                                                 [02]: fe80::397d:557c:c24b:93c4
+                                           [02]: Realtek PCIe GbE Family Controller
+                                                 Nombre de conexión: Ethernet
+                                                 Estado:             Medios desconectados
+                                           [03]: VirtualBox Host-Only Ethernet Adapter
+                                                 Nombre de conexión: VirtualBox Host-Only Network
+                                                 DHCP habilitado:    No
+                                                 Direcciones IP
+                                                 [01]: 192.168.56.1
+                                                 [02]: fe80::c02b:c3a5:8687:1dd0
+Requisitos Hyper-V:                        Extensiones de modo de monitor de VM: Sí
+                                           Se habilitó la virtualización en el firmware: Sí
+                                           Traducción de direcciones de segundo nivel: Sí
+                                           La prevención de ejecución de datos está disponible: Sí
