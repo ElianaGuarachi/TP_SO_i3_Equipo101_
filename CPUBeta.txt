@@ -1,0 +1,63 @@
+Nombre de host:                            DESKTOP-N1BNE8N
+Nombre del sistema operativo:              Microsoft Windows 10 Pro
+Versión del sistema operativo:             10.0.19043 N/D Compilación 19043
+Fabricante del sistema operativo:          Microsoft Corporation
+Configuración del sistema operativo:       Estación de trabajo independiente
+Tipo de compilación del sistema operativo: Multiprocessor Free
+Propiedad de:                              Usuario
+Organización registrada:
+Id. del producto:                          00330-80000-00000-AA754
+Fecha de instalación original:             22/03/2022, 11:40:25
+Tiempo de arranque del sistema:            11/06/2022, 9:01:23
+Fabricante del sistema:                    Dell Inc.
+Modelo el sistema:                         Inspiron 3521
+Tipo de sistema:                           x64-based PC
+Procesador(es):                            1 Procesadores instalados.
+                                           [01]: Intel64 Family 6 Model 58 Stepping 9 GenuineIntel ~774 Mhz
+Versión del BIOS:                          Dell Inc. A02, 26/09/2012
+Directorio de Windows:                     C:\Windows
+Directorio de sistema:                     C:\Windows\system32
+Dispositivo de arranque:                   \Device\HarddiskVolume1
+Configuración regional del sistema:        es-mx;Español (México)
+Idioma de entrada:                         es-mx;Español (México)
+Zona horaria:                              (UTC-03:00) Ciudad de Buenos Aires
+Cantidad total de memoria física:          3.965 MB
+Memoria física disponible:                 1.718 MB
+Memoria virtual: tamaño máximo:            7.583 MB
+Memoria virtual: disponible:               3.629 MB
+Memoria virtual: en uso:                   3.954 MB
+Ubicación(es) de archivo de paginación:    C:\pagefile.sys
+Dominio:                                   WORKGROUP
+Servidor de inicio de sesión:              \\DESKTOP-N1BNE8N
+Revisión(es):                              7 revisión(es) instaladas.
+                                           [01]: KB5013624
+                                           [02]: KB5000736
+                                           [03]: KB5013942
+                                           [04]: KB5011352
+                                           [05]: KB5011651
+                                           [06]: KB5014032
+                                           [07]: KB5001405
+Tarjeta(s) de red:                         4 Tarjetas de interfaz de red instaladas.
+                                           [01]: Realtek PCIe FE Family Controller
+                                                 Nombre de conexión: Ethernet
+                                                 Estado:             Medios desconectados
+                                           [02]: Dell Wireless 1705 802.11b/g/n (2.4GHZ)
+                                                 Nombre de conexión: Wi-Fi
+                                                 DHCP habilitado:    Sí
+                                                 Servidor DHCP:      192.168.51.88
+                                                 Direcciones IP
+                                                 [01]: 192.168.51.44
+                                                 [02]: fe80::2573:b3ca:3442:1a5b
+                                           [03]: Bluetooth Device (Personal Area Network)
+                                                 Nombre de conexión: Conexión de red Bluetooth
+                                                 Estado:             Medios desconectados
+                                           [04]: VirtualBox Host-Only Ethernet Adapter
+                                                 Nombre de conexión: VirtualBox Host-Only Network
+                                                 DHCP habilitado:    No
+                                                 Direcciones IP
+                                                 [01]: 192.168.56.1
+                                                 [02]: fe80::f867:cdca:4b49:514e
+Requisitos Hyper-V:                        Extensiones de modo de monitor de VM: Sí
+                                           Se habilitó la virtualización en el firmware: Sí
+                                           Traducción de direcciones de segundo nivel: Sí
+                                           La prevención de ejecución de datos está disponible: Sí
