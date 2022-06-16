@@ -1,0 +1,52 @@
+Eliana Guarachi Sarzuri (BETA)
+A) ¿Cómo queda El master después de estos cambios?
+Despues de los cambios el master queda con todas las actualizaciones de las dos ramas.
+
+B) ¿Beta pudo ver todos los cambios que se realizaron?
+Si, pude ver todos los cambios que se realizaron.
+
+C)¿Qué debió hacer (todos los comandos) en el punto 5 para poder hacer el merge ?
+git clone -b Messina https://github.com/ElianaGuarachi/TP_SO_i3_Equipo101_.git
+git add .
+git commit -m "Datos beta"
+git push (como esta en la rama de Messina)
+La rama de Messina esta actualizada solo falta mergear. Entonces:
+git checkout main
+git merge Messina
+git add .
+git commit -m "Merge"
+git push
+De esta forma se mergeo la rama Master/Main con la rama de Messina.
+
+Franco David Messina (GAMMA)
+
+D) ¿Las ramas creadas por BETA y GAMMA quedan con datos actualizados?
+Las ramas creadas por BETA y por mi quedan con sus respectivos datos.
+La rama Messina (GAMMA) va a tener las actualizaciones de los pasos 1 a 5.
+La rama Guarachi (BETA) va a tener las actualizaciones de los  pasos a 1 a 9.
+
+E) Detalle (explique) los problemas que tuvieron al hacer el merge
+No tuvimos ningun problema al hacer merge. Fue tan sencillo como hacer un:
+git checkout main. 
+git merge Messina y de esa forma mergeamos el main con la rama Messina. 
+Luego lo mismo pero con la rama Guarachi.
+git checkout main 
+git Merge Guarachi.
+De esta forma esta mergeado localmente ahora habia que subirlo al repositorio con un 
+git add . 
+git commit -m"Merge" 
+git push origin main / git push
+
+F) ¿Qué debió hacer (todos los comandos) en el punto 7 para poder hacer lo pedido?
+git clone --branch Guarachi https://github.com/ElianaGuarachi/TP_SO_i3_Equipo101_.git
+git checkout Guarachi
+git add .
+git commit -m "Datos Gamma"
+git push origin Guarachi
+
+G) ¿Qué debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
+git clone --branch Guarachi https://github.com/ElianaGuarachi/TP_SO_i3_Equipo101_.git
+git checkout Guarachi
+git add .
+git commit -m "Datos Alfa"
+git push origin Guarachi
