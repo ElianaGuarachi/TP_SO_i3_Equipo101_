@@ -39,3 +39,26 @@ Adaptador de Ethernet Conexión de red Bluetooth:
 
    Estado de los medios. . . . . . . . . . . : medios desconectados
    Sufijo DNS específico para la conexión. . :
+
+Franco David Messina(GAMMA)
+Hora: 23:29
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS específico para la conexión. . :
+   Dirección IPv6 . . . . . . . . . . : 2800:810:489:ba2::1001
+   Dirección IPv6 . . . . . . . . . . : 2800:810:489:ba2:344d:f35a:dc40:6af7
+   Dirección IPv6 temporal. . . . . . : 2800:810:489:ba2:641b:2252:e6c7:73cf
+   Vínculo: dirección IPv6 local. . . : fe80::344d:f35a:dc40:6af7%12
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.0.41
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::2a9e:fcff:fe43:ac0e%12
+                                       192.168.0.1
+
+Adaptador de Ethernet VirtualBox Host-Only Network:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::e4a9:8da2:d820:ba91%11
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
